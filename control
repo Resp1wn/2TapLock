@@ -1,0 +1,10 @@
+Package: se.nosskirneh.properlockgestures
+Name: 2TapLock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Double tap to lock anywhere in Lockscreen, homescreen, notification screen or even at your passcode, really cool and fast tweak!!
+Depiction: https://resp1wn.yourepo.com
+Maintainer: Resp1wn
+Author: Resp1wn
+Section: Tweaks
