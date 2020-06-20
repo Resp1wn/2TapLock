@@ -1,5 +1,5 @@
-# ProperLockGestures
-Compatible with iOS 10. 
+# 2TapLock
+Compatible with iOS 13. 
 
 The lock gestures in Tage doesn't work when music controls or notifications are present on the lockscreen. I thought that was annoying so I made a package for it that works. 
 
